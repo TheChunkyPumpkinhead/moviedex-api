@@ -10,3 +10,5 @@ When searching by average vote, users are searching for Movies with an avg_vote 
 The API responds with an array of full movie entries for the search results
 The endpoint only responds when given a valid Authorization header with a Bearer API token value.
 The endpoint should have general security in place such as best practice headers and support for CORS.
+
+0b96733a-6a63-11eb-9439-0242ac130002
